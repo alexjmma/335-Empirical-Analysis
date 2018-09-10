@@ -1,4 +1,4 @@
-Project 2: empirical analysis
+Empirical analysis
 
 Group members:
 
